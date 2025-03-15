@@ -9,3 +9,4 @@ git clone https://github.com/RaelFreitaz/Poison
 cd Poison
 chmod +x poison.sh
 ```
+![Captura de Tela (20)](https://github.com/user-attachments/assets/87a60201-c9b6-481d-84df-b9ec6e46d8a1)
