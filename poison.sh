@@ -6,7 +6,7 @@ echo "██████╔╝██║   ██║██║██████�
 echo "██╔═══╝ ██║   ██║██║╚════██║██║   ██║██║╚██╗██║"
 echo "██║     ╚██████╔╝██║███████║╚██████╔╝██║ ╚████║"
 echo "╚═╝      ╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝"
-echo "       Por https://github.com/Freitasrgx"
+echo "       Por https://github.com/IsraelAndrey"
 echo "------------------------------------------------"
 
 KERNEL_VERSION=$(uname -r)
